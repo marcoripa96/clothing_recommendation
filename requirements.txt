@@ -1,0 +1,16 @@
+requests
+jupyter
+jupytext
+pandas
+tensorflow
+matplotlib
+pydot
+graphviz
+sklearn
+opencv-contrib-python
+annoy
+configparser
+pickledb
+scikit-image
+Pillow
+moviepy
